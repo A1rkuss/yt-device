@@ -1,1 +1,2 @@
-print('some string')
+print('som string')
+print('wew')
